@@ -1,0 +1,55 @@
+1669616219381	geckodriver	INFO	Listening on 127.0.0.1:60927
+1669616222448	mozrunner::runner	INFO	Running command: "C:\\program files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofileGQ3xgT"
+1669616223655	Marionette	INFO	Marionette enabled
+1669616223670	Marionette	INFO	Listening on port 60949
+Read port: 60949
+1669616223979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofileGQ3xgT\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1669616251138	Marionette	INFO	Stopped listening on port 60949
+1669617526851	geckodriver	INFO	Listening on 127.0.0.1:61811
+1669617529929	mozrunner::runner	INFO	Running command: "C:\\program files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofilelc2w3N"
+1669617531103	Marionette	INFO	Marionette enabled
+1669617531116	Marionette	INFO	Listening on port 61823
+Read port: 61823
+1669617531920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofilelc2w3N\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1669617562277	Marionette	INFO	Stopped listening on port 61823
+[Parent 17856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669617677272	geckodriver	INFO	Listening on 127.0.0.1:62269
+1669617680324	mozrunner::runner	INFO	Running command: "C:\\program files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofilea1UNIY"
+1669617681421	Marionette	INFO	Marionette enabled
+1669617681433	Marionette	INFO	Listening on port 62281
+Read port: 62281
+1669617682123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofilea1UNIY\\search.json.mozlz4", (void 0)))
+1669617711248	Marionette	INFO	Stopped listening on port 62281
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: NS_ERROR_NET_RESET
+[Parent 11452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669627755465	geckodriver	INFO	Listening on 127.0.0.1:63960
+1669627758577	mozrunner::runner	INFO	Running command: "C:\\program files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofileJdqyV9"
+1669627759382	Marionette	INFO	Marionette enabled
+1669627759391	Marionette	INFO	Listening on port 63972
+Read port: 63972
+1669627760143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofileJdqyV9\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1669627785933	Marionette	INFO	Stopped listening on port 63972
+1669697378503	geckodriver	INFO	Listening on 127.0.0.1:64792
+1669697381566	mozrunner::runner	INFO	Running command: "C:\\program files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofile4gzhGQ"
+1669697382746	Marionette	INFO	Marionette enabled
+1669697382757	Marionette	INFO	Listening on port 64805
+Read port: 64805
+1669697383649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kundu\\AppData\\Local\\Temp\\rust_mozprofile4gzhGQ\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1669697404288	Marionette	INFO	Stopped listening on port 64805
+[Parent 18884, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
